@@ -3,13 +3,13 @@
     <channel>
         <title>Commandr</title>
         <item>
-            <title>2.11.0</title>
-            <pubDate>Mon, 10 Aug 2026 23:08:38 +0900</pubDate>
-            <sparkle:version>2919</sparkle:version>
-            <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
+            <title>2.11.1</title>
+            <pubDate>Mon, 10 Aug 2026 23:41:08 +0900</pubDate>
+            <sparkle:version>2920</sparkle:version>
+            <sparkle:shortVersionString>2.11.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/wustudios/commandr-releases/releases/download/v2.11.0/Commandr-2.11.0.dmg" length="140855614" type="application/octet-stream" sparkle:edSignature="9WFFKgDWS8suKxQy+nFdjkmyWCqNQ+NNScN8+FnRdk5jdiH9B9vXuyZZce/7J/3jN7uiYvcwVoHRjPx2M9A3AA=="/>
+            <enclosure url="https://github.com/wustudios/commandr-releases/releases/download/v2.11.1/Commandr-2.11.1.dmg" length="140855652" type="application/octet-stream" sparkle:edSignature="M8UYMieQLHIbo2e/IOPZ8VNSrEiEwg0rhDJb2CKV+1+XFNc2q4BN1bS2k+yO2V6Y008iUvcP0kaYtytwZQr4CQ=="/>
         </item>
     </channel>
 </rss>
